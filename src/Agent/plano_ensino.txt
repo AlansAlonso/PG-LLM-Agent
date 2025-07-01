@@ -1,0 +1,44 @@
+Semana 1: 
+- Explicar a importância da programação
+- Entender o processo de escrever um programa de computador
+- Entender como abordar um problema programaticamente
+- Escrever o programa "Hello world" em Python
+
+Semana 2: 
+- Escrever programas com atribuição de variáveis
+
+Semana 3: 
+- Escrever programas com tipos básicos de dados (int, float, boolean e strings)
+- Escrever programas que realizem as operações +, -, *, /, //, % em inteiros e floats
+- Escrever um programa que converta minutos em horas e vice-versa
+
+Semana 4: 
+- Criar objetos strings utilizando aspas simples, aspas duplas e aspas triplas
+- Escrever programas que combinem duas ou mais strings através do operador +
+- Escrever programas que repliquem strings através do operador *
+- Escrever um programa que faça a conversão em letras maiúsculas e minúsculas com as funções upper(), lower(), swapcase(), capitalize(), title(), isupper() e islower()
+
+Semana 5: 
+- Escrever programas que testem a ocorrência de caracteres através do operador in
+- Escrever um programa que conte os caracteres e as palavras de strings com as funções count() e len()
+- Escrever um programa que converta de strings para inteiros e vice-versa
+- Escrever um programa que converta de strings para float e vice-versa
+- Escrever um programa que use a entrada do terminal através do comando input
+
+Semana 6: 
+- Escrever um programa que automaticamente decide quais linhas executar dependendo da entrada do usuário
+- Escrever programas usando condicionais e os operadores booleanos
+
+Semana 7:
+- Escrever programas que combinam mais de uma condição
+- Escrever programas que criem ramificações dentro do programa
+
+Semana 8:
+- Escrever programas com diretivas de repetição for
+- Criar listas numéricas usando a função range
+- Escrever programas com diretivas de repetição while
+
+Semana 9:
+- Escrever programas que organizem valores em listas
+- Escrever um programa que concatene listas
+- Escrever um programa que percorra a lista usando uma diretiva de repetição
