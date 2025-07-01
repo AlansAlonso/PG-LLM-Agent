@@ -1,0 +1,9 @@
+langchain < 0.99
+langchain-openai
+openai < 1.16.99
+streamlit < 1.33.99
+streamlit-folium < 0.19.99
+httpx==0.27.2
+jupyter 
+pandas
+dotenv
